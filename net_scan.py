@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Termux Network Intelligence Toolkit
-# Author: (Your Name)
+# Author: Folorunso George 
 # Description: Scans your Wi-Fi network, lists all connected devices,
 #              checks common open ports, and generates an HTML report.
 

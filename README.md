@@ -1,6 +1,6 @@
 # Termux Network Intelligence Toolkit
 
-Scan your Wi‑Fi network, discover all connected devices, detect open ports, and generate a beautiful HTML report – all from your Android phone running Termux. No root required.
+Scan your Wi‑Fi network, discover all connected devices, detect open ports, and generate a beautiful HTML report, all from your Android phone running Termux. No root required.
 
 ## Features
 - Ping sweep to find live hosts
